@@ -1,0 +1,2 @@
+X DWORD 4
+Y DWORD 5
